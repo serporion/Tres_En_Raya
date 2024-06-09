@@ -1,0 +1,83 @@
+# Build Folders
+TresEnRaya/bin/
+TresEnRaya/obj/
+
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# Miscellaneous files
+*.log
+*.tlog
+*.vspscc
+
+# Visual Studio workspace and project files
+.vs/
+
+# Rider project files
+.idea/
+
+# Windows image file caches
+Thumbs.db
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+
+
+# Ignore .NET SDK artifacts
+.nuget/
+.project.nuget.cache
+
+
+# Exclude files and folders created by dotnet commands
+.vscode/
+.project/
+.cache/
+.history/
+.pnpm-store/
+.idea/
+.jet/
+libman.json
+
+# Exclude Code Coverage results
+coverage/
+*.coverage
+*.coveragexml
+*.cov
+
+# Diagnostic logs
+*.wrn
+*.err
+
+# OS-specific directories
+.DS_Store
+*.localized
+
+# Backup files
+*_backup
+*_backup.*
+*.bak
+*.old
+*.orig
+*.001
+*.swp
+
+# Exclude temporary files from Microsoft Office
+~$*
+
+# Exclude other temporary files
+*.tmp
+*.temp
+*.log
+*.gid
+*.pptx
+*.dmp
