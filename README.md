@@ -42,7 +42,7 @@ nuget restore TresEnRaya.sln
 - Compila el proyecto
 
 ```sh
-msbuild TresEnRaya.cs
+msbuild TresEnRaya.sln
 ```
 [Asegúrate de tener MSBuild instalado y disponible en en PATH de tu sismtema](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022).
 
